@@ -1,2 +1,2 @@
 # web-odev
-Huseyina Hasanato
+Huseyin Hasanato
